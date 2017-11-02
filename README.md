@@ -1,2 +1,3 @@
 # helloworld
-starter
+- A little bit about me 
+- starter
